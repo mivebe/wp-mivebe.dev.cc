@@ -10,7 +10,7 @@ Made with:
  - Dozen of plugins out of the WP ecosystem
  
  Features:
-  - Responsive Navbar and Footer optimised for all devices
+  - Responsive Navbar and Footer optimized for all devices
   - Hero and call to action
   - Media, text and icon effects and embedding
   - wooComerce shop
